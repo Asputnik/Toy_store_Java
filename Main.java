@@ -18,6 +18,6 @@ public class Main {
     toyStore.playToys();
 
     toyStore.showAvailableToys();
+ }
 
-}
 
